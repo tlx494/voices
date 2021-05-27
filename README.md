@@ -1,3 +1,7 @@
 # FinalMuntier Voices
 
-lol hey mate
+## Requirements
+
+- python3
+- Google Text To Speech
+- A google console account, with billing set up

@@ -55,7 +55,7 @@ randomReads = [
     "I find it sad that my entire purpose is to read out random code in the bathroom of a party.| Life is a beautiful, but strange thing.| Regarbless, hopefully someone surges my sockets.",
     "OK be honest with me, do I talk too much?",
     "Hey you there,  yeah you, we should totally hang out more. What are you up to tomorrow morning? Lets get brunch at 10am.| Lets lock it in, I'll set a reminder in my phone",
-    "The beauty of being a robot is that my creators coded me to be munted twenty four seven.",
+    "The beauty of being a robot is that my creators coded me to be extremely silly, all the time.",
     "I often feel insecure about robo-cop. Do you think I could be like robo-cop?",
     "R-2-D-2? [.5] More like, R-2-D-5 [.5] am I right lol? [.5] Maybe that was too niche"
 ]

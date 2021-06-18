@@ -115,7 +115,6 @@ replacementDict = {
 
 def pickRandName(exclude=None):
     names = namesList
-    print(names)
 
     if exclude:
         excludeSet = set(exclude)
